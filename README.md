@@ -1,5 +1,6 @@
 ﻿# Projeto-Simplificado
 Portfólio Pessoal - Jorge Gabriel
+
 Este repositório contém o código-fonte do meu portfólio pessoal, desenvolvido para apresentar meus projetos, habilidades e experiência profissional. O objetivo é oferecer uma visão geral sobre minha trajetória e facilitar o contato com potenciais empregadores ou colaboradores.
 
 Estrutura do Portfólio
